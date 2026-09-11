@@ -57,7 +57,7 @@ log buffer:  0x350000 bytes
 
 ```text
 kernel size: 38844928
-kernel SHA-256: (extracted from boot.img at offset 0x1000)
+kernel SHA-256: 9269e1ca380ace587b1eafe196418150470c089a8202d934f6a512f75f04e344
 boot header version: 4
 ```
 

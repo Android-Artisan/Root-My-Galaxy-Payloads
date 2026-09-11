@@ -196,7 +196,7 @@ make TARGET=b7s-F766BXXSCBZH3 \
 The fixed-size release artifact:
 
 ```text
-artifacts/b7s-F766BXXSCBZH3/cve-2026-43499-app.release.so
+artifacts/b7s-F766BXXSCBZH3/cve-2026-43499-app.so
 size: 104128
 SHA-256: 5476ba506416c7ad24eafbd482b96c14c8452f3aeba78b42f94a7f73f54ccb61
 ```

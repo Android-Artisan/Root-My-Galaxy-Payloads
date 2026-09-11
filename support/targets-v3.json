@@ -337,7 +337,7 @@
       "displayName": "Galaxy Z Flip7 | Kernel 6.6.102 (F766BXXSCBZH3)",
       "models": ["SM-F766B"],
       "kernelVersions": ["6.6.102"],
-      "requiresFreshP0Session": true,
+      "requiresFreshP0Session": false,
       "exploit": {
         "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/artifacts/b7s-F766BXXSCBZH3/cve-2026-43499-app.so",
         "size": 104128
